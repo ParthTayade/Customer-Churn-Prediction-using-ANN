@@ -46,4 +46,4 @@ The dataset includes 10,000 customer records with a mix of demographic, financia
 ### 12. Prediction & Analysis
 &#9679; Generated churn predictions and analyzed results to assess the effectiveness of the model.
 
-## Results
+# Results
